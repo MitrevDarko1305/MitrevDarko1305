@@ -2,6 +2,8 @@
 
 I’m Darko, a frontend-focused developer building modern, animated web interfaces.
 
+🔗 Website – https://mitrevdarko.dev
+
 ### What I work with
 - React / Next.js
 - TypeScript
