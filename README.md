@@ -1,6 +1,6 @@
 # Hi 👋
 
-I’m Darko, Frontend-focused developer building scalable systems with modern technologies.
+I’m Darko, Full-stack developer building scalable systems with modern technologies.
 
 
 🔗 Website – https://mitrevdarko.dev
@@ -12,7 +12,6 @@ I’m Darko, Frontend-focused developer building scalable systems with modern te
 - Bootstrap
 - Component-based UI
 - Scroll and interaction-based animations
-
 
 
 ## 🧩 Projects
