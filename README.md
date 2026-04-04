@@ -76,6 +76,11 @@ Currently building a scalable and dynamic CMS system using **Payload CMS**:
 
 Goal: create a flexible architecture that can power different types of websites without rebuilding from scratch.
 
+Check live-version: 
+🔗https://smilo-care.mitrevdarko.dev/
+
+---
+
 ###  PulseFit Project Demo 
 A video presentation of a project built from my CMS Web-driven architecture.
 https://www.canva.com/design/DAHCEMJ4IVo/61yuth7Ly8JAIoNpbYaSEg/watch?utm_content=DAHCEMJ4IVo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h495b084d98
