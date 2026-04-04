@@ -54,15 +54,25 @@ and brand identity without unnecessary complexity.
 ---
 
 
-## One of my biggest wins ##
-### 🏥 Smilo-Care (Next.js Project)
-A full multi-page website built with:
+## 🏥 Smilo-Care Modern Dental Website (Next.js + React) ## 
+Smilo Care is a modern, fully responsive dental website built with Next.js and React. 
+Designed to provide a clean and professional online presence for dental clinics, 
+it focuses on usability, clarity, and a smooth user experience across all devices.
 
-- Next.js (React components)
-- Reusable UI architecture
-- Section-based layout system
-  
-Designed to be modular, maintainable, and production-ready.
+## ✨ Features ##
+- Modern, clean UI tailored for healthcare
+- Fully responsive across desktop and mobile
+- Multi-page structure (5 complete pages)
+- Component-based architecture with React
+- Optimized performance with Next.js
+
+## ⚙️ Tech Stack ##
+- Next.js — framework for performance and routing
+- React — component-based UI development
+- CSS / Styling — custom styling for a polished design
+
+Check live-version: 
+🔗https://smilo-care.mitrevdarko.dev/
 
 ---
 
@@ -75,9 +85,6 @@ Currently building a scalable and dynamic CMS system using **Payload CMS**:
 - Structured for long-term scalability
 
 Goal: create a flexible architecture that can power different types of websites without rebuilding from scratch.
-
-Check live-version: 
-🔗https://smilo-care.mitrevdarko.dev/
 
 ---
 
